@@ -1,1 +1,0 @@
-execute as @a[scores={leavegame=1..}] run function main:cmd

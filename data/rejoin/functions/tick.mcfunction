@@ -1,0 +1,1 @@
+execute as @a[scores={leavegame=1..}] run function rejoin:cmd

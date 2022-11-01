@@ -4,7 +4,7 @@ A simple template datapack for detecting players who leave and executing command
 ## How to use:
 1. download the zip or clone
 
-2. open the file cmd.mcfunction located in main/function with any text editor (e.g notpad, VS Code etc.)
+2. open the file cmd.mcfunction located in data/rejoin/function with any text editor (e.g notpad, VS Code etc.)
 
 3. 
 - change the coordinates at the top line (x y z being the coords and xrotation and yrotation being the direct they will face) if you want players to be teleported once they rejoin, if not you can remove that line
